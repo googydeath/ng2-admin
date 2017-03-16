@@ -178,6 +178,6 @@
     "url": "https://github.com/akveo/ng2-admin/issues"
   },
   "engines": {
-    "node": ">= 5.4.1 < 7"
+    "node": "7.7.3"
   }
 }
